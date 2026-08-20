@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=160&section=header" width="100%">
 
 <img src="./Vermelho.jpg" width="700">
 
@@ -44,9 +45,18 @@ Sempre buscando melhorar meus projetos
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaquimrcosta&bg_color=0d1117&color=d32f2f&line=d32f2f&point=ff5252&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhuandodo200-tech&bg_color=0d1117&color=d32f2f&line=d32f2f&point=ff5252&area=true&hide_border=true" />
 </p>
 
-![Visitors](https://hits.sh/github.com/joaquimrcosta/joaquimrcosta.svg?style=for-the-badge&label=VISITAS&color=red)
+![Visitors](https://hits.sh/github.com/rhuanhenrique/rhuanhenrique.svg?style=for-the-badge&label=VISITAS&color=red)
 
+</div>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Annacfg&label=VISITAS&color=FF0000&style=for-the-badge">
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%">
 </div>
