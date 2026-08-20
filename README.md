@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=2500&pause=1000&color=D32F2F&center=true&vCenter=true&width=350&lines=HTML+-+CSS+-+Python">
 
----
+
 
 ## Sobre mim 🥊
 
